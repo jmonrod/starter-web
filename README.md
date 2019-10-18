@@ -16,3 +16,7 @@ This is a simple web project, deployment can be on my web server or even local f
 
 ## How To Contribute
 Sample website with plenty of files for demos
+
+### Copyright
+
+2019 Git.Training
